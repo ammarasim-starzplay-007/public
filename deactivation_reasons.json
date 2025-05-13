@@ -6,7 +6,7 @@
     "desc_en": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Entertainment subscription.",
     "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Entertainment subscription.",
     "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Entertainment subscription.",
-    "resons": [
+    "reasons": [
       {
         "id": 1,
         "show_comment_box": true,
@@ -69,7 +69,7 @@
     "desc_en": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Max subscription.",
     "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Max subscription.",
     "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Max subscription.",
-    "resons": [
+    "reasons": [
       {
         "id": 1,
         "show_comment_box": true,
@@ -132,7 +132,7 @@
     "desc_en": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your subscription.",
     "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your subscription.",
     "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your subscription.",
-    "resons": [
+    "reasons": [
       {
         "id": 1,
         "show_comment_box": true,
