@@ -30,29 +30,43 @@
       "perks": [
         {
           "id": 1,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 2,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 3,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 4,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
+          "text_en": "Hollywood & Arabic Entertainment in HD",
+          "text_ar": "Hollywood & Arabic Entertainment in HD"
+        },
+        {
+          "id": 5,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
+          "text_en": "Hollywood & Arabic Entertainment in HD",
+          "text_ar": "Hollywood & Arabic Entertainment in HD"
+        },
+        {
+          "id": 5,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         }
@@ -65,29 +79,43 @@
       "perks": [
         {
           "id": 1,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/1.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/1.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 2,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/2.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/2.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 3,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/3.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/3.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 4,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/4.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/4.png",
+          "text_en": "Hollywood & Arabic Entertainment in HD",
+          "text_ar": "Hollywood & Arabic Entertainment in HD"
+        },
+        {
+          "id": 5,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/5.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/5.png",
+          "text_en": "Hollywood & Arabic Entertainment in HD",
+          "text_ar": "Hollywood & Arabic Entertainment in HD"
+        },
+        {
+          "id": 5,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/6.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/6.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         }
@@ -100,29 +128,43 @@
       "perks": [
         {
           "id": 1,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 2,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 3,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 4,
-          "icon_en": "",
-          "icon_ar": "",
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
+          "text_en": "Hollywood & Arabic Entertainment in HD",
+          "text_ar": "Hollywood & Arabic Entertainment in HD"
+        },
+        {
+          "id": 5,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
+          "text_en": "Hollywood & Arabic Entertainment in HD",
+          "text_ar": "Hollywood & Arabic Entertainment in HD"
+        },
+        {
+          "id": 5,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
           "text_en": "Hollywood & Arabic Entertainment in HD",
           "text_ar": "Hollywood & Arabic Entertainment in HD"
         }
