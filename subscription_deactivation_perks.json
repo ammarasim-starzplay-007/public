@@ -16,10 +16,10 @@
     },
     {
       "sub": "default",
-      "header_en": "Things you’re going to lose once you cancel",
-      "header_ar": "Things you’re going to lose once you cancel",
-      "desc_en": "Things you’re going to lose once you cancel",
-      "desc_ar": "Things you’re going to lose once you cancel"
+      "header_en": "default: Things you’re going to lose once you cancel",
+      "header_ar": "default: Things you’re going to lose once you cancel",
+      "desc_en": "default: Things you’re going to lose once you cancel",
+      "desc_ar": "default: Things you’re going to lose once you cancel"
     }
   ],
   "perks_data": [
@@ -123,15 +123,15 @@
     },
     {
       "sub": "default",
-      "header_en": "Things you’re going to lose once you cancel",
-      "header_ar": "Things you’re going to lose once you cancel",
+      "header_en": "default: Things you’re going to lose once you cancel",
+      "header_ar": "default: Things you’re going to lose once you cancel",
       "perks": [
         {
           "id": 1,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "default: Hollywood & Arabic Entertainment in HD",
+          "text_ar": "default: Hollywood & Arabic Entertainment in HD"
         },
         {
           "id": 2,
