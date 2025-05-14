@@ -3,10 +3,8 @@
     "sub": "starzplay",
     "header_en": "Help us improve!",
     "header_ar": "ساعدنا لتحسين الخدمة!",
-    "header_fr": "Aidez-nous à nous améliorer !",
     "desc_en": "Choose your reason and provide us with your valued feedback",
     "desc_ar": "اختر السبب وأخبرنا برأيك",
-    "desc_fr": "Choisissez une raison et donnez-nous votre avis.",
     "reasons": [
       {
         "id": 1,
@@ -14,10 +12,8 @@
         "is_comment_mandatory": true,
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
-        "label_fr": "J'ai fini de regarder ce à quoi je m'étais abonné",
         "comment_hint_en": "What Content would you like to watch",
         "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟",
-        "comment_hint_fr": "Que voulez-vous regarder?"
       },
       {
         "id": 2,
@@ -25,10 +21,8 @@
         "is_comment_mandatory": true,
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
-        "label_fr": "Je rencontre des problèmes lors de l'utilisation du serviceJe rencontre des problèmes lors de l'utilisation du service",
         "comment_hint_en": "Missing features I need, faced Technical issues, faced Streaming/Service Quality problem, App is not user-friendly",
         "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام",
-        "comment_hint_fr": "Que voulez-vous regarder?"
       },
       {
         "id": 3,
@@ -36,31 +30,25 @@
         "discount_offer": true,
         "label_en": "The service is too expensive for me",
         "label_ar": "الاشتراك مكلف جداً بالنسبة لي",
-        "label_fr": "Le service est trop cher",
         "comment_hint_en": "Tell us more",
         "comment_hint_ar": "اخبرنا بالمزيد",
-        "comment_hint_fr": "Dites-nous en plus"
       },
       {
         "id": 4,
         "label_en": "I don't have enough time to watch",
-        "label_fr": "Je n'ai pas le temps de regarder",
         "label_ar": "ليس لدى وقت كافي للمشاهدة"
       },
       {
         "id": 5,
         "label_ar": " سأنتقل إلى خدمة أخرى",
-        "label_fr": "Je change de service",
         "label_en": " I am switching to another service"
       },
       {
         "id": 6,
         "show_comment_box": true,
         "label_en": "Other",
-        "label_fr": "Autres",
         "label_ar": "أخرى",
         "comment_hint_en": "Please describe the issue",
-        "comment_hint_fr": "Veuillez décrire le problème",
         "comment_hint_ar": "يرجى شرح المشكلة"
       }
     ]
@@ -69,10 +57,8 @@
     "sub": "starzplayultimate",
     "header_en": "Help us improve!",
     "header_ar": "ساعدنا لتحسين الخدمة!",
-    "header_fr": "Aidez-nous à nous améliorer !",
     "desc_en": "Choose your reason and provide us with your valued feedback",
     "desc_ar": "اختر السبب وأخبرنا برأيك",
-    "desc_fr": "Choisissez une raison et donnez-nous votre avis.",
     "reasons": [
       {
         "id": 1,
@@ -80,10 +66,8 @@
         "is_comment_mandatory": true,
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
-        "label_fr": "J'ai fini de regarder ce à quoi je m'étais abonné",
         "comment_hint_en": "What Content would you like to watch",
         "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟",
-        "comment_hint_fr": "Que voulez-vous regarder?"
       },
       {
         "id": 2,
@@ -91,41 +75,33 @@
         "is_comment_mandatory": true,
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
-        "label_fr": "Je rencontre des problèmes lors de l'utilisation du serviceJe rencontre des problèmes lors de l'utilisation du service",
         "comment_hint_en": "Missing features I need, faced Technical issues, faced Streaming/Service Quality problem, App is not user-friendly",
         "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام",
-        "comment_hint_fr": "Que voulez-vous regarder?"
       },
       {
         "id": 3,
         "show_comment_box": true,
         "label_en": "The service is too expensive for me",
         "label_ar": "الاشتراك مكلف جداً بالنسبة لي",
-        "label_fr": "Le service est trop cher",
         "comment_hint_en": "Tell us more",
         "comment_hint_ar": "اخبرنا بالمزيد",
-        "comment_hint_fr": "Dites-nous en plus"
       },
       {
         "id": 4,
         "label_en": "I don't have enough time to watch",
-        "label_fr": "Je n'ai pas le temps de regarder",
         "label_ar": "ليس لدى وقت كافي للمشاهدة"
       },
       {
         "id": 5,
         "label_ar": " سأنتقل إلى خدمة أخرى",
-        "label_fr": "Je change de service",
         "label_en": " I am switching to another service"
       },
       {
         "id": 6,
         "show_comment_box": true,
         "label_en": "Other",
-        "label_fr": "Autres",
         "label_ar": "أخرى",
         "comment_hint_en": "Please describe the issue",
-        "comment_hint_fr": "Veuillez décrire le problème",
         "comment_hint_ar": "يرجى شرح المشكلة"
       }
     ]
@@ -134,10 +110,8 @@
     "sub": "default",
     "header_en": "Help us improve!",
     "header_ar": "ساعدنا لتحسين الخدمة!",
-    "header_fr": "Aidez-nous à nous améliorer !",
     "desc_en": "Choose your reason and provide us with your valued feedback",
     "desc_ar": "اختر السبب وأخبرنا برأيك",
-    "desc_fr": "Choisissez une raison et donnez-nous votre avis.",
     "resons": [
       {
         "id": 1,
@@ -145,10 +119,8 @@
         "is_comment_mandatory": true,
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
-        "label_fr": "J'ai fini de regarder ce à quoi je m'étais abonné",
         "comment_hint_en": "What Content would you like to watch",
         "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟",
-        "comment_hint_fr": "Que voulez-vous regarder?"
       },
       {
         "id": 2,
@@ -156,10 +128,8 @@
         "is_comment_mandatory": true,
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
-        "label_fr": "Je rencontre des problèmes lors de l'utilisation du serviceJe rencontre des problèmes lors de l'utilisation du service",
         "comment_hint_en": "Missing features I need, faced Technical issues, faced Streaming/Service Quality problem, App is not user-friendly",
         "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام",
-        "comment_hint_fr": "Que voulez-vous regarder?"
       },
       {
         "id": 3,
@@ -167,31 +137,25 @@
         "show_offer": true,
         "label_en": "The service is too expensive for me",
         "label_ar": "الاشتراك مكلف جداً بالنسبة لي",
-        "label_fr": "Le service est trop cher",
         "comment_hint_en": "Tell us more",
         "comment_hint_ar": "اخبرنا بالمزيد",
-        "comment_hint_fr": "Dites-nous en plus"
       },
       {
         "id": 4,
         "label_en": "I don't have enough time to watch",
-        "label_fr": "Je n'ai pas le temps de regarder",
         "label_ar": "ليس لدى وقت كافي للمشاهدة"
       },
       {
         "id": 5,
         "label_ar": " سأنتقل إلى خدمة أخرى",
-        "label_fr": "Je change de service",
         "label_en": " I am switching to another service"
       },
       {
         "id": 6,
         "show_comment_box": true,
         "label_en": "Other",
-        "label_fr": "Autres",
         "label_ar": "أخرى",
         "comment_hint_en": "Please describe the issue",
-        "comment_hint_fr": "Veuillez décrire le problème",
         "comment_hint_ar": "يرجى شرح المشكلة"
       }
     ]
