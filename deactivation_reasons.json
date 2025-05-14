@@ -1,5 +1,5 @@
 [
-  { 
+  {
     "sub": "starzplay",
     "header_en": "Help us improve!",
     "header_ar": "ساعدنا لتحسين الخدمة!",
@@ -13,7 +13,7 @@
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
         "comment_hint_en": "What Content would you like to watch",
-        "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟",
+        "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟"
       },
       {
         "id": 2,
@@ -22,7 +22,7 @@
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
         "comment_hint_en": "Missing features I need, faced Technical issues, faced Streaming/Service Quality problem, App is not user-friendly",
-        "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام",
+        "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام"
       },
       {
         "id": 3,
@@ -31,7 +31,7 @@
         "label_en": "The service is too expensive for me",
         "label_ar": "الاشتراك مكلف جداً بالنسبة لي",
         "comment_hint_en": "Tell us more",
-        "comment_hint_ar": "اخبرنا بالمزيد",
+        "comment_hint_ar": "اخبرنا بالمزيد"
       },
       {
         "id": 4,
@@ -67,7 +67,7 @@
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
         "comment_hint_en": "What Content would you like to watch",
-        "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟",
+        "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟"
       },
       {
         "id": 2,
@@ -76,7 +76,7 @@
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
         "comment_hint_en": "Missing features I need, faced Technical issues, faced Streaming/Service Quality problem, App is not user-friendly",
-        "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام",
+        "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام"
       },
       {
         "id": 3,
@@ -84,7 +84,7 @@
         "label_en": "The service is too expensive for me",
         "label_ar": "الاشتراك مكلف جداً بالنسبة لي",
         "comment_hint_en": "Tell us more",
-        "comment_hint_ar": "اخبرنا بالمزيد",
+        "comment_hint_ar": "اخبرنا بالمزيد"
       },
       {
         "id": 4,
@@ -112,7 +112,7 @@
     "header_ar": "ساعدنا لتحسين الخدمة!",
     "desc_en": "Choose your reason and provide us with your valued feedback",
     "desc_ar": "اختر السبب وأخبرنا برأيك",
-    "resons": [
+    "reasons": [
       {
         "id": 1,
         "show_comment_box": true,
@@ -120,7 +120,7 @@
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
         "comment_hint_en": "What Content would you like to watch",
-        "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟",
+        "comment_hint_ar": "ما هو المحتوى الذي تريد مشاهدته؟"
       },
       {
         "id": 2,
@@ -129,7 +129,7 @@
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
         "comment_hint_en": "Missing features I need, faced Technical issues, faced Streaming/Service Quality problem, App is not user-friendly",
-        "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام",
+        "comment_hint_ar": "بعض المميزات والخصائص التي أحتاجها ليست موجودة، واجهت مشاكل تقنية، واجهت مشكلة في جودة البث/الخدمة، التطبيق ليس سهل الاستخدام"
       },
       {
         "id": 3,
@@ -138,7 +138,7 @@
         "label_en": "The service is too expensive for me",
         "label_ar": "الاشتراك مكلف جداً بالنسبة لي",
         "comment_hint_en": "Tell us more",
-        "comment_hint_ar": "اخبرنا بالمزيد",
+        "comment_hint_ar": "اخبرنا بالمزيد"
       },
       {
         "id": 4,
