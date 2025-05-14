@@ -1,15 +1,17 @@
-{
-  "starzplay": {
+[
+  {
+    "sub": "starzplay",
     "header_en": "Deactivate STARZPLAY Entertainment Subscription",
     "header_ar": "Deactivate STARZPLAY Entertainment Subscription",
     "header_fr": "Deactivate STARZPLAY Entertainment Subscription",
-    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Entertainment subscription.",
-    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Entertainment subscription.",
-    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Entertainment subscription.",
+    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Entertainment subscription.",
+    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Entertainment subscription.",
+    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Entertainment subscription.",
     "reasons": [
       {
         "id": 1,
         "show_comment_box": true,
+        "is_comment_mandatory": true,
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
         "label_fr": "J'ai fini de regarder ce à quoi je m'étais abonné",
@@ -20,6 +22,7 @@
       {
         "id": 2,
         "show_comment_box": true,
+        "is_comment_mandatory": true,
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
         "label_fr": "Je rencontre des problèmes lors de l'utilisation du serviceJe rencontre des problèmes lors de l'utilisation du service",
@@ -30,7 +33,7 @@
       {
         "id": 3,
         "show_comment_box": true,
-        "show_offer": true,
+        "discount_offer": true,
         "label_en": "The service is too expensive for me",
         "label_ar": "الاشتراك مكلف جداً بالنسبة لي",
         "label_fr": "Le service est trop cher",
@@ -62,17 +65,19 @@
       }
     ]
   },
-  "starzplayultimate": {
+  {
+    "sub": "starzplayultimate",
     "header_en": "Deactivate STARZPLAY Max Subscription",
     "header_ar": "Deactivate STARZPLAY Max Subscription",
     "header_fr": "Deactivate STARZPLAY Max Subscription",
-    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Max subscription.",
-    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Max subscription.",
-    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your STARZPLAY Max subscription.",
+    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Max subscription.",
+    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Max subscription.",
+    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Max subscription.",
     "reasons": [
       {
         "id": 1,
         "show_comment_box": true,
+        "is_comment_mandatory": true,
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
         "label_fr": "J'ai fini de regarder ce à quoi je m'étais abonné",
@@ -83,6 +88,7 @@
       {
         "id": 2,
         "show_comment_box": true,
+        "is_comment_mandatory": true,
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
         "label_fr": "Je rencontre des problèmes lors de l'utilisation du serviceJe rencontre des problèmes lors de l'utilisation du service",
@@ -93,7 +99,6 @@
       {
         "id": 3,
         "show_comment_box": true,
-        "show_offer": true,
         "label_en": "The service is too expensive for me",
         "label_ar": "الاشتراك مكلف جداً بالنسبة لي",
         "label_fr": "Le service est trop cher",
@@ -125,17 +130,19 @@
       }
     ]
   },
-  "default": {
+  {
+    "sub": "default",
     "header_en": "Deactivate subscription",
     "header_ar": "Deactivate subscription",
     "header_fr": "Deactivate subscription",
-    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your subscription.",
-    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your subscription.",
-    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you’re canceling your subscription.",
-    "reasons": [
+    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you're canceling your subscription.",
+    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you're canceling your subscription.",
+    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you're canceling your subscription.",
+    "resons": [
       {
         "id": 1,
         "show_comment_box": true,
+        "is_comment_mandatory": true,
         "label_en": "There is not enough content",
         "label_ar": "لا يوجد محتوى كافي",
         "label_fr": "J'ai fini de regarder ce à quoi je m'étais abonné",
@@ -146,6 +153,7 @@
       {
         "id": 2,
         "show_comment_box": true,
+        "is_comment_mandatory": true,
         "label_en": "I am facing some issue while using the service",
         "label_ar": "تواجهني بعض المشاكل أثناء استخدام الخدمة",
         "label_fr": "Je rencontre des problèmes lors de l'utilisation du serviceJe rencontre des problèmes lors de l'utilisation du service",
@@ -188,4 +196,4 @@
       }
     ]
   }
-}
+]
