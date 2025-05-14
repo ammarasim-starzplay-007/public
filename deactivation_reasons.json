@@ -1,12 +1,12 @@
 [
   {
     "sub": "starzplay",
-    "header_en": "Deactivate STARZPLAY Entertainment Subscription",
-    "header_ar": "Deactivate STARZPLAY Entertainment Subscription",
-    "header_fr": "Deactivate STARZPLAY Entertainment Subscription",
-    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Entertainment subscription.",
-    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Entertainment subscription.",
-    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Entertainment subscription.",
+    "header_en": "Help us improve!",
+    "header_ar": "ساعدنا لتحسين الخدمة!",
+    "header_fr": "Aidez-nous à nous améliorer !",
+    "desc_en": "Choose your reason and provide us with your valued feedback",
+    "desc_ar": "اختر السبب وأخبرنا برأيك",
+    "desc_fr": "Choisissez une raison et donnez-nous votre avis.",
     "reasons": [
       {
         "id": 1,
@@ -67,12 +67,12 @@
   },
   {
     "sub": "starzplayultimate",
-    "header_en": "Deactivate STARZPLAY Max Subscription",
-    "header_ar": "Deactivate STARZPLAY Max Subscription",
-    "header_fr": "Deactivate STARZPLAY Max Subscription",
-    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Max subscription.",
-    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Max subscription.",
-    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you're canceling your STARZPLAY Max subscription.",
+    "header_en": "Help us improve!",
+    "header_ar": "ساعدنا لتحسين الخدمة!",
+    "header_fr": "Aidez-nous à nous améliorer !",
+    "desc_en": "Choose your reason and provide us with your valued feedback",
+    "desc_ar": "اختر السبب وأخبرنا برأيك",
+    "desc_fr": "Choisissez une raison et donnez-nous votre avis.",
     "reasons": [
       {
         "id": 1,
@@ -132,12 +132,12 @@
   },
   {
     "sub": "default",
-    "header_en": "Deactivate subscription",
-    "header_ar": "Deactivate subscription",
-    "header_fr": "Deactivate subscription",
-    "desc_en": "Let us hear from you first! Please take a minute to tell us about why you're canceling your subscription.",
-    "desc_ar": "Let us hear from you first! Please take a minute to tell us about why you're canceling your subscription.",
-    "desc_fr": "Let us hear from you first! Please take a minute to tell us about why you're canceling your subscription.",
+    "header_en": "Help us improve!",
+    "header_ar": "ساعدنا لتحسين الخدمة!",
+    "header_fr": "Aidez-nous à nous améliorer !",
+    "desc_en": "Choose your reason and provide us with your valued feedback",
+    "desc_ar": "اختر السبب وأخبرنا برأيك",
+    "desc_fr": "Choisissez une raison et donnez-nous votre avis.",
     "resons": [
       {
         "id": 1,
