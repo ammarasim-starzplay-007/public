@@ -2,171 +2,171 @@
   "screen_header": [
     {
       "sub": "starzplay", 
-      "header_en": "Things you’re going to lose once you cancel",
-      "header_ar": "Things you’re going to lose once you cancel",
-      "desc_en": "Things you’re going to lose once you cancel",
-      "desc_ar": "Things you’re going to lose once you cancel"
+      "header_en": "Before You Go",
+      "header_ar": "قبل أن تذهب",
+      "desc_en": "Don't miss out on these blockbuster movies & trending shows everyone's talking about",
+      "desc_ar": "لا تفوت أشهر الأفلام والمسلسلات الرائجة التي يتحدث عنها الجميع"
     },
     {
       "sub": "starzplayultimate",
-      "header_en": "Things you’re going to lose once you cancel",
-      "header_ar": "Things you’re going to lose once you cancel",
-      "desc_en": "Things you’re going to lose once you cancel",
-      "desc_ar": "Things you’re going to lose once you cancel"
+      "header_en": "Before You Go",
+      "header_ar": "قبل أن تذهب",
+      "desc_en": "Don't miss out on these movies, series & live events everyone's talking about:",
+      "desc_ar": "لا تفوت هذه الأفلام، المسلسلات والأحداث الرياضية المباشرة التي يتحدث عنها الجميع"
     },
     {
       "sub": "default",
-      "header_en": "default: Things you’re going to lose once you cancel",
-      "header_ar": "default: Things you’re going to lose once you cancel",
-      "desc_en": "default: Things you’re going to lose once you cancel",
-      "desc_ar": "default: Things you’re going to lose once you cancel"
+      "header_en": "Before You Go",
+      "header_ar": "قبل أن تذهب",
+      "desc_en": "Don't miss out on these binge-worthy shows and popular events everyone's talking about",
+      "desc_ar": "لا تفوتك! شاهد بدون توقف هذه المسلسلات والأحداث الرائجة التي يتحدث عنها الجميع"
     }
   ],
   "perks_data": [
     {
       "sub": "starzplay",
-      "header_en": "Things you’re going to lose once you cancel",
-      "header_ar": "Things you’re going to lose once you cancel",
+      "header_en": "Perks you may lose, if you cancel!",
+      "header_ar": "مميزات قد تخسرها إذا ألغيت اشتراكك!",
       "perks": [
         {
           "id": 1,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Latest Hollywood & Arabic Entertainment",
+          "text_ar": "أحدث محتوى ترفيهي عربي ومن هوليوود"
         },
         {
           "id": 2,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Personalized Viewing Experience with Multiple Profiles",
+          "text_ar": "تجربة مشاهدة مخصصة مع ملفات شخصية متعددة"
         },
         {
           "id": 3,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Ad-Free Experience",
+          "text_ar": "تجربة خالية من الإعلانات تمامًا"
         },
         {
           "id": 4,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Live Sports in Full HD",
+          "text_ar": "أحداث رياضية مباشرة بجودة HD"
         },
         {
           "id": 5,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Download & Watch Offline",
+          "text_ar": "حمّل وشاهد بدون انترنت"
         },
         {
-          "id": 5,
+          "id": 6,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Extensive content for kids",
+          "text_ar": "محتوى آمن للأطفال"
         }
       ]
     },
     {
       "sub": "starzplayultimate",
-      "header_en": "Things you’re going to lose once you cancel",
-      "header_ar": "Things you’re going to lose once you cancel",
-      "perks": [
-        {
-          "id": 1,
-          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/1.png",
-          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/1.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
-        },
-        {
-          "id": 2,
-          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/2.png",
-          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/2.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
-        },
-        {
-          "id": 3,
-          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/3.png",
-          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/3.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
-        },
-        {
-          "id": 4,
-          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/4.png",
-          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/4.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
-        },
-        {
-          "id": 5,
-          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/5.png",
-          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/5.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
-        },
-        {
-          "id": 5,
-          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/6.png",
-          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplayultimate/6.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
-        }
-      ]
-    },
-    {
-      "sub": "default",
-      "header_en": "default: Things you’re going to lose once you cancel",
-      "header_ar": "default: Things you’re going to lose once you cancel",
+      "header_en": "Perks you may lose, if you cancel!",
+      "header_ar": "مميزات قد تخسرها إذا ألغيت اشتراكك!",
       "perks": [
         {
           "id": 1,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
-          "text_en": "default: Hollywood & Arabic Entertainment in HD",
-          "text_ar": "default: Hollywood & Arabic Entertainment in HD"
+          "text_en": "Latest Hollywood & Arabic Entertainment",
+          "text_ar": "أحدث محتوى ترفيهي عربي ومن هوليوود"
         },
         {
           "id": 2,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Personalized Viewing Experience with Multiple Profiles",
+          "text_ar": "تجربة مشاهدة مخصصة مع ملفات شخصية متعددة"
         },
         {
           "id": 3,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Ad-Free Experience",
+          "text_ar": "تجربة خالية من الإعلانات تمامًا"
         },
         {
           "id": 4,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Live Sports in Full HD",
+          "text_ar": "أحداث رياضية مباشرة بجودة HD"
         },
         {
           "id": 5,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Download & Watch Offline",
+          "text_ar": "حمّل وشاهد بدون انترنت"
+        },
+        {
+          "id": 6,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
+          "text_en": "Extensive content for kids",
+          "text_ar": "محتوى آمن للأطفال"
+        }
+      ]
+    },
+    {
+      "sub": "default",
+      "header_en": "Perks you may lose, if you cancel!",
+      "header_ar": "مميزات قد تخسرها إذا ألغيت اشتراكك!",
+      "perks": [
+        {
+          "id": 1,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/1.png",
+          "text_en": "Latest Hollywood & Arabic Entertainment",
+          "text_ar": "أحدث محتوى ترفيهي عربي ومن هوليوود"
+        },
+        {
+          "id": 2,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/2.png",
+          "text_en": "Personalized Viewing Experience with Multiple Profiles",
+          "text_ar": "تجربة مشاهدة مخصصة مع ملفات شخصية متعددة"
+        },
+        {
+          "id": 3,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/3.png",
+          "text_en": "Ad-Free Experience",
+          "text_ar": "تجربة خالية من الإعلانات تمامًا"
+        },
+        {
+          "id": 4,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/4.png",
+          "text_en": "Live Sports in Full HD",
+          "text_ar": "أحداث رياضية مباشرة بجودة HD"
         },
         {
           "id": 5,
+          "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
+          "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/5.png",
+          "text_en": "Download & Watch Offline",
+          "text_ar": "حمّل وشاهد بدون انترنت"
+        },
+        {
+          "id": 6,
           "icon_en": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
           "icon_ar": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/resources/images/deactivation/promotions/perks/starzplay/6.png",
-          "text_en": "Hollywood & Arabic Entertainment in HD",
-          "text_ar": "Hollywood & Arabic Entertainment in HD"
+          "text_en": "Extensive content for kids",
+          "text_ar": "محتوى آمن للأطفال"
         }
       ]
     }
