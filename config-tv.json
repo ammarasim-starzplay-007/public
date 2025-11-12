@@ -1,6 +1,6 @@
 {
   "name": "prd",
-  "targetVersion": 7500176,
+  "targetVersion": 7500186,
   "forceToUpdate": true,
   "pegBaseUrl": "https://api.aws.playco.com/api",
   "mediaServiceBaseUrl": "https://sp-new-api.aws.playco.com/api",
