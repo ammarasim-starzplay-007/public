@@ -1,0 +1,82 @@
+{
+  "name": "prd",
+  "targetVersion": 7500176,
+  "forceToUpdate": true,
+  "pegBaseUrl": "https://api.aws.playco.com/api",
+  "mediaServiceBaseUrl": "https://sp-new-api.aws.playco.com/api",
+  "staticPegBaseUrl": "https://static.aws.playco.com/api",
+  "staticBaseUrlV2": "https://static-cf-rec.aws.playco.com",
+  "pinLoginBaseUrl": "https://sp-code.aws.playco.com",
+  "pinLoginKey" : "3_ypIpRQXE8T2KWymQmQ5Ly20020prod92qPrjvrewfvALir19xxsQI82QyMBk6ZWpZVugsh6zi",
+  "defaultCDNUrl": "https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/",
+  "loginQRCodeBaseUrl": "https://starzplay-img-prod-ssl.akamaized.net/prd-peg-data/default/images/qrcodes/",
+  "ratingCalloutEnabled": true,
+  "removeCache": "false",
+  "concurrencyEnabled": false,
+  "concurrencyV2Enabled": true,
+  "heartbeatIntervalSeconds" : 60,
+  "CDNSelectorEnabled": false,
+  "adsEnabled": true,
+  "vodAdsMinOSVersion" : 26,
+  "liveAdsMinOSVersion" : 26,
+  "externalLinksConfig": {
+    "portalFAQUrl": "https://arabia.starzplay.com/faq",
+    "portalTermsUrl": "https://arabia.starzplay.com/termsandconditions",
+    "privacyPolicyUrl": "https://arabia.starzplay.com/%s/privacypolicy",
+    "shareBaseUrl": "https://arabia.starzplay.com/"
+  },
+  "remoteConfigUrl": "https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/configs/remote-configs.json",
+  "welcomePageConfig": {
+    "baseWelcomeContentUrl": "https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/"
+  },
+  "languageConfig": {
+    "langFileName": "https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/androidtv/translation_3.1/",
+    "languagesISO1": [
+      "en",
+      "ar"
+    ]
+  },
+  "downloadsConfig": {
+    "downloadsEnabled": true,
+    "downloadsApiBaseUrl": "https://tmpd.aws.playco.com/",
+    "downloadsManifestHostUrl": "usp-download.aws.playco.com"
+  },
+  "mpxConfig": {
+    "mpxTitlesUrl": "http://feed.entertainment.tv.theplatform.eu/f/qaJAph/peg_mena_paf_all/%s"
+  },
+  "catalogUrls": {
+    "baseChannelUrl": "https://feed.entertainment.tv.theplatform.eu/f/hGKjSC/",
+    "storeUrl": "https://feed.entertainment.tv.theplatform.eu/f/hGKjSC/spa_mena_store_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|NotKids|Kids}",
+    "moviesUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_mena_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|NotKids},{AddonContent}{starz|-}&byTagIds=23375400370",
+    "seriesUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_mena_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|NotKids},{AddonContent}{starz|-}&byTagIds=23375400369",
+    "customSectionUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_mena_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|NotKids}&byTagIds=35400231959",
+    "kidsUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_mena_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|Kids}&byTagIds=23374376389",
+    "catKidsSeriesUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_mena_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|Kids}&byTagIds=23375400369,23374376389",
+    "catKidsMoviesUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_mena_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|Kids}&byTagIds=23375400370,23374376389"
+  },
+  "regionalConfigs": {
+    "pk": {
+      "mpxConfig": {
+        "mpxTitlesUrl": "https://feed.entertainment.tv.theplatform.eu/f/hGKjSC/peg_pk_paf_all/%s"
+      },
+      "catalogUrls": {
+        "baseChannelUrl": "https://feed.entertainment.tv.theplatform.eu/f/hGKjSC/",
+        "moviesUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_pk_Explore_v2?byTagIds=23375400370&byCustomValue={availableInSection}{All|NotKids}&sort=:priorityLevel",
+        "seriesUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_pk_Explore_v2?byTagIds=23375400369&byCustomValue={availableInSection}{All|NotKids}&&sort=:priorityLevel",
+        "customSectionUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_pk_Explore_v2?byTagIds=300244008319&byCustomValue={availableInSection}{All|NotKids}&sort=:priorityLevel",
+        "kidsUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_pk_Explore_v2?byTagIds=23374376389&byCustomValue={availableInSection}{All|Kids}&sort=:priorityLevelKids",
+        "catKidsSeriesUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_mena_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|Kids}&byTagIds=23375400369,23374376389",
+        "catKidsMoviesUrl": "https://feed.entertainment.tv.theplatform.eu/f/qaJAph/spa_mena_Explore_v2?sort=added|desc&byCustomValue={availableInSection}{All|Kids}&byTagIds=23375400370,23374376389"
+      }
+    }
+  },
+  "cdnConfig": {
+    "CDNBaseUrl": "https://mena-cdn-lb.aws.playco.com/",
+    "CDNImageBaseUrl": "https://mena-img-cdn-lb.aws.playco.com/"
+  },
+  "imageCacheVersion": "1.0.0",
+  "screenSaverDisplayTime":2,
+  "screenSaverUrl": "https://mena-cdn-lb.aws.playco.com/prd-peg-data/default/screensaver/index.html",
+  "profileConfig": "https://starzplay-prod-ssl.akamaized.net/prd-peg-data/default/configs/profiles-screen.json",
+  "videoCommerceUrl": "https://vc-apii.multitvsolution.com/media_commerce/api/fetch_products"
+}
